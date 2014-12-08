@@ -13,4 +13,9 @@ Creating a new branch is quick AND simple . last config.
 >>>>>>> frature1
 
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+
+>>>>>>> feature1
